@@ -80,13 +80,10 @@ Este projeto consistiu na criação de um ambiente centralizado em Power BI para
 A página inicial funciona como um **hub central de navegação**, apresentando botões clicáveis que direcionam o usuário para os diversos relatórios específicos do projeto. Isso garante uma navegação intuitiva, organizada e acessível para diferentes perfis de usuários e áreas da manutenção.
 
 🖼️ *Imagem do Painel Home:*
-```markdown
+
 ![Home](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075477.jpg)
-<img src="https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075477.jpg?raw=true" width="800" alt="Tela inicial do Portal Power BI - VALE" />
 
-<img src="https://raw.githubusercontent.com/robinson-17/Robinson-17/main/images/5163767076526075477.jpg" width="800" alt="Tela inicial do Portal Power BI - VALE" />
 
-```
 
 ---
 
@@ -95,9 +92,9 @@ A página inicial funciona como um **hub central de navegação**, apresentando 
 Este relatório permite o acompanhamento de **notas de manutenção escaladas**, com detalhes como criticidade, prazos e status de atendimento. Essencial para dar visibilidade a gestores e responsáveis sobre tratativas pendentes e riscos operacionais associados a atrasos.
 
 🖼️ *Imagem do Scalation Report:*
-```markdown
+
 ![Scalation Report](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075478.jpg)
-```
+
 
 ---
 
@@ -106,9 +103,9 @@ Este relatório permite o acompanhamento de **notas de manutenção escaladas**,
 Monitora o **volume de notas criadas versus as executadas**, em períodos distintos. Auxilia no entendimento da demanda gerada e da capacidade de execução da equipe de manutenção, identificando possíveis gargalos operacionais.
 
 🖼️ *Imagem do Criados x Executados:*
-```markdown
+
 ![Criados x Executados](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075479.jpg)
-```
+
 
 ---
 
@@ -117,18 +114,18 @@ Monitora o **volume de notas criadas versus as executadas**, em períodos distin
 Lista os laudos técnicos pendentes, permitindo o acompanhamento dos prazos e status, além de auxiliar na programação das execuções e atender aos requisitos de segurança, qualidade e compliance.
 
 🖼️ *Imagem do Laudos a Executar:*
-```markdown
+
 ![Laudos a Executar](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075480.jpg)
-```
+
 
 ### 🏩 Telhados e Desmobilizações
 
 Painel focado na gestão de **estruturas de cobertura e equipamentos desmobilizados**. Traz informações como pendências estruturais, andamento das ordens de manutenção e status das inspeções, viabilizando o acompanhamento preciso dessas frentes.
 
 🖼️ *Imagem do Painel Telhados e Desmob:*
-```markdown
+
 ![Telhados e Desmob](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075481.jpg)
-```
+
 
 ---
 
@@ -137,9 +134,9 @@ Painel focado na gestão de **estruturas de cobertura e equipamentos desmobiliza
 Permite buscar e analisar o conteúdo detalhado das **notas de manutenção registradas no SAP**, com descrições, responsáveis, status e outras informações cruciais. Garante uma visão profunda para análises técnicas e operacionais.
 
 🖼️ *Imagem da Consulta de Notas:*
-```markdown
+
 ![Consulta de Notas](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075482.jpg)
-```
+
 
 ---
 
@@ -148,9 +145,9 @@ Permite buscar e analisar o conteúdo detalhado das **notas de manutenção regi
 Este painel mensura a **aderência da equipe às ações de manutenção com base em condições reais** de uso e inspeção dos ativos. Fornece indicadores sobre o cumprimento dos prazos e execução das notas preventivas ou corretivas por condição.
 
 🖼️ *Imagem do Relatório AMC:*
-```markdown
+
 ![Relatório AMC](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075483.jpg)
-```
+
 
 ---
 
@@ -159,9 +156,9 @@ Este painel mensura a **aderência da equipe às ações de manutenção com bas
 Complementar ao painel AMC, este relatório foca nas **atividades planejadas sistematicamente**, como aquelas com periodicidade definida. Permite visualizar a taxa de execução conforme o plano de manutenção preventiva da empresa.
 
 🖼️ *Imagem do Relatório AMS:*
-```markdown
+
 ![Relatório AMS](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075484.jpg)
-```
+
 
 ---
 
@@ -179,9 +176,9 @@ Ferramenta estratégica que **prioriza as atividades de manutenção** com base 
 - Status do sistema e usuário
 
 🖼️ *Imagem do Painel de Priorizacão:*
-```markdown
+
 ![Painel de Priorizacao](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075485.jpg)
-```
+
 ---
 
 > 📈 **Impacto Geral:** Criação de uma base sólida para **decisão estratégica e tática**, aumento da produtividade na manutenção e maior controle na gestão de contratos e recursos.
