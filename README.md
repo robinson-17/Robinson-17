@@ -1,4 +1,4 @@
-<h1 align="center">👋 ROBSON ROCHA</h1>
+<h1 align="center">👋 ROBSON ROCHA NUNES</h1>
 
 <p align="center">
   <strong>Engenheiro de Planejamento</strong> | <strong>Engenheiro de Dados</strong><br/>
@@ -82,6 +82,9 @@ A página inicial funciona como um **hub central de navegação**, apresentando 
 🖼️ *Imagem do Painel Home:*
 ```markdown
 ![Home](https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075477.jpg)
+<img src="https://github.com/robinson-17/Robinson-17/blob/main/images/5163767076526075477.jpg?raw=true" width="800" alt="Tela inicial do Portal Power BI - VALE" />
+
+<img src="https://raw.githubusercontent.com/robinson-17/Robinson-17/main/images/5163767076526075477.jpg" width="800" alt="Tela inicial do Portal Power BI - VALE" />
 
 ```
 
