@@ -67,6 +67,78 @@
 
 ## 📊 Portfólio Power BI
 
+### Empresa: **NORSK HYDRO S.A.**
+### 📊 Portfólio de Dashboards - Hydro Alunorte
+
+A seguir, apresento os relatórios desenvolvidos para a empresa **Hydro Alunorte:**
+
+Projeto 01 - Apropriação de homens-hora (HH). A estrutura permite uma navegação centralizada por meio da Tela Home, levando a relatórios específicos e detalhados para diferentes níveis de análise.
+
+🖼️ *Tela Home:*
+
+![Home](https://github.com/robinson-17/Robinson-17/blob/main/images/5179620307621753071.jpg)
+
+---
+
+## 📊 Apropriação de HH – Dashboard de Alocação de Horas
+Este relatório fornece uma visão clara e objetiva da **apropriação de horas-homem (HH)** na operação da planta, destacando o uso real versus o disponível, e a conformidade com o processo de registro por matrícula.
+
+![Home](https://github.com/robinson-17/Robinson-17/blob/main/images/5179620307621753072.jpg)
+
+### Principais Componentes do Dashboard:
+
+- **Indicador de Realizado x Disponível**: Mostra que 76% das horas disponíveis foram apropriadas, indicando o nível de utilização da força de trabalho.
+  
+- **Confirmados com Matrícula**: Demonstra que 95,62% das horas apropriadas estão corretamente registradas com número de matrícula, garantindo rastreabilidade e conformidade.
+
+- **Gráfico Trabalho Real x Capacidade por Dia**: Compara, por dia, o total de horas trabalhadas com a capacidade teórica, evidenciando possíveis gargalos ou ociosidade.
+
+- **% por Gerência Executiva e Check**: Aponta a distribuição da apropriação com e sem matrícula entre diferentes áreas executivas da planta.
+
+- **% por Gerência Sênior e Check**: Apresenta os dados de apropriação por áreas mais operacionais e técnicas, como Oficina, Preditiva, MP Clarificação, etc.
+
+### Objetivo do Relatório:
+
+Ajudar gestores e analistas a **identificar desvios**, **melhorar a alocação de recursos humanos** e garantir **conformidade com processos internos de registro**, promovendo **eficiência operacional e controle de mão de obra**.
+
+---
+
+## 📋 Apropriação de HH – Detalhado
+O painel “Apropriação de HH – Detalhado” oferece uma visualização granular da alocação de horas por colaborador e por gerência, permitindo uma análise aprofundada da performance e do controle de jornada em diferentes níveis da estrutura organizacional.
+
+![Tela de Apropriação de HH - Detalhado](https://github.com/robinson-17/Robinson-17/blob/main/images/5179620307621753072.jpg)
+
+
+### 🔍 Seções do Painel:
+
+#### 1. Apropriação HH – Detalhado por Funcionários:
+- Exibe a **capacidade de horas (Capac. em h)** e o **trabalho real (Trab real)** por colaborador, com percentual de aproveitamento.
+- Marcação com **ícones visuais (✔ ou ❌)** para facilitar a leitura rápida da conformidade.
+- Segmentado por **dias**, facilitando a análise diária da apropriação.
+
+#### 2. Apropriação HH – Detalhado por Gerência:
+- Agrega os dados de HH por **Gerência** e apresenta o desempenho diário comparando capacidade versus horas efetivamente trabalhadas.
+- A presença de **indicadores percentuais e alertas visuais** (como barras ou ícones) facilita a identificação de desvios, sobrecarga ou subutilização.
+- Útil para **gestores técnicos e administrativos** acompanharem a eficiência operacional e tomarem decisões baseadas em dados.
+
+### ✅ Aplicações práticas:
+- Apoio em reuniões de performance diária ou semanal;
+- Comparativo entre dias ou turnos;
+- Base para ações corretivas em setores com baixo índice de apropriação;
+- Controle da conformidade por matrícula.
+
+### 🎯 Objetivo do Painel:
+Fornecer um detalhamento completo da **distribuição de mão de obra** na planta, permitindo:
+- Auditoria e rastreabilidade por nome e área;
+- Identificação de gargalos ou ociosidade por setor;
+- Verificação de registros incorretos ou ausentes;
+- Suporte à melhoria contínua no processo de alocação de recursos humanos.
+
+---
+
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
+
 ### Empresa: **VALE S.A.**
 
 #### Projeto: **Portal de Power BI - Integridade Estrutural**
