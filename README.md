@@ -83,7 +83,7 @@ Projeto 01 - Apropriação de homens-hora (HH). A estrutura permite uma navegaç
 ## 📊 Apropriação de HH – Dashboard de Alocação de Horas
 Este relatório fornece uma visão clara e objetiva da **apropriação de horas-homem (HH)** na operação da planta, destacando o uso real versus o disponível, e a conformidade com o processo de registro por matrícula.
 
-![Home](https://github.com/robinson-17/Robinson-17/blob/main/images/5179620307621753072.jpg)
+![Dashboard de Alocação de Horas](https://github.com/robinson-17/Robinson-17/blob/main/images/5179620307621753072.jpg)
 
 ### Principais Componentes do Dashboard:
 
@@ -106,7 +106,7 @@ Ajudar gestores e analistas a **identificar desvios**, **melhorar a alocação d
 ## 📋 Apropriação de HH – Detalhado
 O painel “Apropriação de HH – Detalhado” oferece uma visualização granular da alocação de horas por colaborador e por gerência, permitindo uma análise aprofundada da performance e do controle de jornada em diferentes níveis da estrutura organizacional.
 
-![Tela de Apropriação de HH - Detalhado](https://github.com/robinson-17/Robinson-17/blob/main/images/5179620307621753072.jpg)
+![Tela de Apropriação de HH - Detalhado](https://github.com/robinson-17/Robinson-17/blob/main/images/5179620307621753073.jpg)
 
 
 ### 🔍 Seções do Painel:
